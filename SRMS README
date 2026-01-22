@@ -1,0 +1,59 @@
+Student Attendance and Performance Tracking System
+Project Overview
+This project is a no-code Student Attendance and Performance Tracking System developed as part of a Software Engineering (SDLC) course project.
+The system demonstrates the full System Development Life Cycle (SDLC) using Microsoft Excel for implementation and Microsoft Word for documentation.
+The project replaces manual attendance recording with a simple, accurate, and automated system.
+
+ Objectives
+•	To record student attendance accurately
+•	To automate attendance calculations
+•	To generate attendance summaries and reports
+•	To reduce errors associated with manual attendance systems
+
+ Tools Used
+•	Microsoft Excel – System implementation
+•	Microsoft Word – SDLC documentation
+ No programming language was used (no-code approach).
+
+System Description
+The Excel system consists of the following worksheets:
+•	Students – Stores student details
+•	Attendance – Records daily attendance
+•	Scores – Stores test and exam scores
+•	Summary – Automatically calculates attendance totals and percentages
+•	Reports – Describes available reports
+Built-in Excel formulas such as COUNTIF, COUNTIFS, SUM, and IF are used to automate calculations.
+
+How to Use the System
+1.	Open Student_Attendance_System.xlsx
+2.	Enter student details in the Students sheet
+3.	Record daily attendance in the Attendance sheet
+o	Status must be Present or Absent
+4.	Enter scores in the Scores sheet
+5.	View automatic calculations in the Summary sheet
+
+Testing
+The system was tested using sample student data to verify:
+•	Attendance counting
+•	Percentage calculations
+•	Report accuracy
+All tests passed successfully.
+
+ Deployment
+The system is deployed by copying the Excel file to the user’s computer.
+No installation or configuration is required.
+
+ Maintenance
+•	Update student records when necessary
+•	Correct data entry errors
+•	Perform regular file backups
+
+Academic Note
+This project was developed using a no-code SDLC approach to demonstrate system analysis, design, implementation, testing, and maintenance without programming.
+
+ Author
+Name: [ODUEYUNGBO OREOLUWA ISREAL]
+Matric Number: [23/13342
+Course: Software Engineering
+Institution: [Caleb University]
+
